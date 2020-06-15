@@ -20,7 +20,7 @@ if door == "1":
         \t3. Engage a punch fight with the bear.""")
 
         action1 = input("> ")
-
+        
         if action1 == "1":
             print("Your body survives powered by a fast run.")
             print("Good job!")
